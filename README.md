@@ -4,6 +4,9 @@
 
 I'm 21, currently living in Cotia, São Paulo and I'm very passionate about programming but mainly about Front End. I'm starting my journey throughout the universe of programming, always improving, ~having trouble~ and loving this entire experience.
 
+![ClipWindowsGIF](https://user-images.githubusercontent.com/112976898/189994126-596fd5e6-40f5-4ad8-bfe7-db916a1174d9.gif)
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be scared of dogs!
 - 🎮 I LOVE games, study and COFFEE!!! <3
--->
