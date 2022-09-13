@@ -1,3 +1,5 @@
+## Hello, I'm Fernando Oliveira (or Frali 😁)
+
 ### Hi there!! 👋
 
 I'm 21, currently living in Cotia, São Paulo and I'm very passionate about programming but mainly about Front End. I'm starting my journey throughout the universe of programming, always improving, ~having trouble~ and loving this entire experience.
