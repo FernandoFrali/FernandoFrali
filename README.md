@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can find me on LinkedIn, by clicking on the link at the bottom of the page. And it's also possible to explore my projects here in my repositories folder <3
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be scared of dogs!
-- 🎮 I LOVE games, study and COFFEE!!! <3
+- 🎮 I LOVE games, studying and COFFEE!!! <3
