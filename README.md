@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be scared of dogs!
 - 🎮 I LOVE games, studying and COFFEE!!! <3
+
+https://github-stats-alpha.vercel.app/api?username={fernandofrali}&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color
