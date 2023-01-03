@@ -8,7 +8,9 @@
 </div>
 
 
-Hello, I'm Fernando Oliveira *(or Frali 😁)*.
+Hello, I'm Fernando Oliveira *(or Frali 😁)*:
+
+<strong>*A brazilian Full Stack Web Developer.*</strong>
 
 
 I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very passionate about programming but mainly about Front End. I'm starting my journey throughout the universe of programming, always improving, ~having trouble~ and loving this entire experience.
