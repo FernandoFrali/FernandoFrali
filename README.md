@@ -43,7 +43,7 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div align="center"><span>JavaScript TypeScript</span></div>|<div align="center"><span>React🔸Jest</span></div>|<div align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Local Storage🔸Bootstrap</span></div>|<div align="center"><span>Linux🔸Mac🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma</span></div>|
+|<div align="center"><span>JavaScript TypeScript</span></div>|<div align="center"><span>React🔸Jest</span></div>|<div align="center"><span>Git🔸React Testing Library🔸REST API🔸HTML🔸CSS🔸Redux🔸Bootstrap🔸TailwindCSS🔸Storybook</span></div>|<div align="center"><span>Linux🔸Mac🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸Trello🔸Notion</span></div>|
   </details>
 
   
