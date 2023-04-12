@@ -13,18 +13,18 @@ Hello, I'm Fernando Oliveira *(or Frali 😁)*:
 <strong>*A brazilian Full Stack Web Developer.*</strong>
 
 
-I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very passionate about programming but mainly about Front End. I'm starting my journey throughout the universe of programming, always improving, ~having trouble~ and loving this entire experience.
+I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very passionate about programming. I'm always improving and discovering new technologies to expand my portfolio, still learning, ~debugging~ and loving this entire experience.
 
 
 
 ## About me:
 
-- 🔭 I’m currently working on improving my skills as a Front End Developer;
-- 🌱 I’m currently learning Javascript, React, Python, MySQL, HTML & CSS;
+- 🔭 I’m currently working on improving my skills to be a Full Cycle developer soon;
+- 🌱 I’m currently learning DevOps, Cloud and more about back-end. I usually study UX / UI in my spare time too;
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/fernandofrali/), by clicking on the link at the bottom of the page. And it's also possible to explore my projects here in my repositories folder <3
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be scared of dogs!
-- 🎮 I LOVE games, studying and COFFEE!!! <3
+- 🎮 I LOVE games, studying and CODING!!! <3
 
 ##
 
@@ -41,9 +41,9 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
     
 ###  My knowledge:
 
-| Languages  | Frameworks | Technologies | Tools | 
+| Languages  | Frameworks & Libs | Technologies | Tools | 
 |---|---|---|---|
-|<div align="center"><span>JavaScript TypeScript</span></div>|<div align="center"><span>React🔸Jest</span></div>|<div align="center"><span>Git🔸React Testing Library🔸REST API🔸HTML🔸CSS🔸Redux🔸NodeJS🔸Docker🔸Styled-components🔸TailwindCSS🔸Swagger🔸Storybook🔸Mongoose🔸Sequelize🔸GraphQL</span></div>|<div align="center"><span>Linux🔸Mac🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸Trello🔸Slack🔸Notion</span></div>|
+|<div align="center"><span>![JavaScript][js-shield] ![TypeScript][ts-shield]</span></div>|<div align="center"><span>![React][react-shield] ![React-Native][native-shield] ![Jest][jest-shield] ![Mocha][mocha-shield]</span></div>|<div align="center"><span>![Git][git-shield] ![Node][node-shield] ![HTML][html-shield] ![CSS][css-shield] ![Redux][redux-shield] ![AWS][aws-shield] ![Docker][docker-shield] ![Tailwind][tailwind-shield] ![Swagger][swagger-shield] ![Storybook][storybook-shield] ![MySQL][mysql-shield] ![PostgreSQL][postgres-shield] ![MongoDB][mongodb-shield] ![GraphQL][graphql-shield]...</span></div>|<div align="center"><span>![Linux][linux-shield] ![MacOS][macos-shield] ![Terminal][terminal-shield] ![Unix][unix-shield] ![GitHub][github-shield] ![VSCode][vscode-shield] ![Figma][figma-shield] ![Trello][trello-shield] ![Slack][slack-shield] ![Notion][notion-shield]</span></div>|
   </details>
 
   
@@ -66,3 +66,36 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+		
+[react-shield]: https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black
+[jest-shield]: https://img.shields.io/badge/-Jest-c73b1c?logo=jest&logoColor=white
+[mocha-shield]: https://img.shields.io/badge/-Mocha-8c6548?logo=mocha&logoColor=white
+[native-shield]: https://img.shields.io/badge/-React%20Native-00d1f6?logo=react&logoColor=black
+[js-shield]: https://img.shields.io/badge/-JavaScript-EFD81E?logo=javascript&logoColor=black
+[ts-shield]: https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white
+[git-shield]: https://img.shields.io/badge/-Git-FC4F28?logo=git&logoColor=white
+[node-shield]: https://img.shields.io/badge/-Node-7CB73F?logo=node.js&logoColor=white
+[html-shield]: https://img.shields.io/badge/-HTML5-DD4C26?logo=html5&logoColor=white
+[css-shield]: https://img.shields.io/badge/-CSS3-0168BA?logo=css3&logoColor=white
+[redux-shield]: https://img.shields.io/badge/-Redux-7348B6?logo=redux&logoColor=white
+[aws-shield]: https://img.shields.io/badge/-AWS-FF9900?logo=amazon&logoColor=black
+[docker-shield]: https://img.shields.io/badge/-Docker-129AD4?logo=docker&logoColor=white
+[tailwind-shield]: https://img.shields.io/badge/-TailwindCSS-08B0CF?logo=tailwindcss&logoColor=white
+[swagger-shield]: https://img.shields.io/badge/-Swagger-77E44A?logo=swagger&logoColor=white
+[storybook-shield]: https://img.shields.io/badge/-Storybook-FF4784?logo=storybook&logoColor=white
+[mysql-shield]: https://img.shields.io/badge/-MySQL-E48E00?logo=mysql&logoColor=white
+[postgres-shield]: https://img.shields.io/badge/-Postgres-32648D?logo=postgresql&logoColor=white
+[mongodb-shield]: https://img.shields.io/badge/-MongoDB-10A54D?logo=mongodb&logoColor=white
+[graphql-shield]: https://img.shields.io/badge/-GraphQL-DE33A7?logo=graphql&logoColor=white
+[linux-shield]: https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white
+[macos-shield]: https://img.shields.io/badge/-MacOS-black?logo=macos&logoColor=white
+[terminal-shield]: https://img.shields.io/badge/-Terminal-black?logo=gnubash&logoColor=white
+[unix-shield]: https://img.shields.io/badge/-Unix-black?logo=gnubash&logoColor=white
+[github-shield]: https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white
+[vscode-shield]: https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&logoColor=389BF0
+[figma-shield]: https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white
+[trello-shield]: https://img.shields.io/badge/-Trello-black?logo=trello&logoColor=0375B9
+[notion-shield]: https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white
+[slack-shield]: https://img.shields.io/badge/-Slack-black?logo=slack&logoColor=48124A
+[zoom-shield]: https://img.shields.io/badge/-Zoom-black?logo=zoom&logoColor=4499FF
