@@ -43,7 +43,7 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 
 | Languages  | Frameworks & Libs | Technologies | Tools | 
 |---|---|---|---|
-|<div align="center"><span>![JavaScript][js-shield] ![TypeScript][ts-shield]</span></div>|<div align="center"><span>![React][react-shield] ![React-Native][native-shield] ![Jest][jest-shield] ![Mocha][mocha-shield]</span></div>|<div align="center"><span>![Git][git-shield] ![Node][node-shield] ![HTML][html-shield] ![CSS][css-shield] ![Redux][redux-shield] ![AWS][aws-shield] ![Docker][docker-shield] ![Tailwind][tailwind-shield] ![Swagger][swagger-shield] ![Storybook][storybook-shield] ![MySQL][mysql-shield] ![PostgreSQL][postgres-shield] ![MongoDB][mongodb-shield] ![GraphQL][graphql-shield] and more...</span></div>|<div align="center"><span>![Linux][linux-shield] ![MacOS][macos-shield] ![Terminal][terminal-shield] ![Unix][unix-shield] ![GitHub][github-shield] ![VSCode][vscode-shield] ![Figma][figma-shield] ![Trello][trello-shield] ![Slack][slack-shield] ![Notion][notion-shield]</span></div>|
+|<div align="center"><span>![JavaScript][js-shield] ![TypeScript][ts-shield]</span></div>|<div align="center"><span>![React][react-shield] ![React-Native][native-shield] ![Jest][jest-shield] ![Mocha][mocha-shield]</span></div>|<div align="center"><span>![Git][git-shield] ![Node][node-shield] ![HTML][html-shield] ![CSS][css-shield] ![Redux][redux-shield] ![AWS][aws-shield] ![Docker][docker-shield] ![Tailwind][tailwind-shield] ![Swagger][swagger-shield] ![Storybook][storybook-shield] ![MySQL][mysql-shield] ![PostgreSQL][postgres-shield] ![MongoDB][mongodb-shield] ![GraphQL][graphql-shield] ![Next.js][next-shield] ![NestJS][nest-shield] and more...</span></div>|<div align="center"><span>![Linux][linux-shield] ![MacOS][macos-shield] ![Terminal][terminal-shield] ![Unix][unix-shield] ![GitHub][github-shield] ![VSCode][vscode-shield] ![Figma][figma-shield] ![Trello][trello-shield] ![Slack][slack-shield] ![Notion][notion-shield]</span></div>|
   </details>
 
   
@@ -88,6 +88,8 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 [postgres-shield]: https://img.shields.io/badge/-Postgres-32648D?logo=postgresql&logoColor=white
 [mongodb-shield]: https://img.shields.io/badge/-MongoDB-10A54D?logo=mongodb&logoColor=white
 [graphql-shield]: https://img.shields.io/badge/-GraphQL-DE33A7?logo=graphql&logoColor=white
+[next-shield]: https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white
+[nest-shield]: https://img.shields.io/badge/-NestJS-e0244e?logo=nestjs&logoColor=white
 [linux-shield]: https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white
 [macos-shield]: https://img.shields.io/badge/-MacOS-black?logo=macos&logoColor=white
 [terminal-shield]: https://img.shields.io/badge/-Terminal-black?logo=gnubash&logoColor=white
