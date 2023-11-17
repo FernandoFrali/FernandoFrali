@@ -43,7 +43,7 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 
 | Languages  | Frameworks & Libs | Technologies | Tools | 
 |---|---|---|---|
-|<div align="center"><span>![JavaScript][js-shield] ![TypeScript][ts-shield]</span></div>|<div align="center"><span>![React][react-shield] ![React-Native][native-shield] ![Jest][jest-shield] ![Mocha][mocha-shield]</span></div>|<div align="center"><span>![Git][git-shield] ![Node][node-shield] ![HTML][html-shield] ![CSS][css-shield] ![Redux][redux-shield] ![AWS][aws-shield] ![Docker][docker-shield] ![Tailwind][tailwind-shield] ![Swagger][swagger-shield] ![Storybook][storybook-shield] ![MySQL][mysql-shield] ![PostgreSQL][postgres-shield] ![MongoDB][mongodb-shield] ![GraphQL][graphql-shield] ![Next.js][next-shield] ![NestJS][nest-shield] and more...</span></div>|<div align="center"><span>![Linux][linux-shield] ![MacOS][macos-shield] ![Terminal][terminal-shield] ![Unix][unix-shield] ![GitHub][github-shield] ![VSCode][vscode-shield] ![Figma][figma-shield] ![Trello][trello-shield] ![Slack][slack-shield] ![Notion][notion-shield]</span></div>|
+|<div align="center"><span>![TypeScript][ts-shield] ![Java][java-shield] ![Rust][rust-shield] ![Python][python-shield]</span></div>|<div align="center"><span>![React][react-shield] ![Springboot][springboot-shield] ![React-Native][native-shield] ![Jest][jest-shield] ![Mocha][mocha-shield]</span></div>|<div align="center"><span>![Git][git-shield] ![Node][node-shield] ![HTML][html-shield] ![CSS][css-shield] ![Redux][redux-shield] ![AWS][aws-shield] ![Docker][docker-shield] ![Swagger][swagger-shield] ![Storybook][storybook-shield] ![MySQL][mysql-shield] ![PostgreSQL][postgres-shield] ![MongoDB][mongodb-shield] ![GraphQL][graphql-shield] ![Next.js][next-shield] ![NestJS][nest-shield] and more...</span></div>|<div align="center"><span>![Linux][linux-shield] ![MacOS][macos-shield] ![Terminal][terminal-shield] ![Unix][unix-shield] ![GitHub][github-shield] ![VSCode][vscode-shield] ![Figma][figma-shield] ![Trello][trello-shield] ![Slack][slack-shield] ![Notion][notion-shield] ![Nginx][nginx-shield]</span></div>|
   </details>
 
   
@@ -68,12 +68,15 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 </div>
 
 		
-[react-shield]: https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black
+[react-shield]: https://img.shields.io/badge/-React-00d1f6?logo=react&logoColor=black
 [jest-shield]: https://img.shields.io/badge/-Jest-c73b1c?logo=jest&logoColor=white
 [mocha-shield]: https://img.shields.io/badge/-Mocha-8c6548?logo=mocha&logoColor=white
 [native-shield]: https://img.shields.io/badge/-React%20Native-00d1f6?logo=react&logoColor=black
 [js-shield]: https://img.shields.io/badge/-JavaScript-EFD81E?logo=javascript&logoColor=black
 [ts-shield]: https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white
+[python-shield]: https://img.shields.io/badge/-Python-ffd966?logo=python&logoColor=black
+[rust-shield]: https://img.shields.io/badge/-Rust-f44336?logo=rust&logoColor=white
+[java-shield]: https://img.shields.io/badge/-Java-000000?logo=openjdk&logoColor=white
 [git-shield]: https://img.shields.io/badge/-Git-FC4F28?logo=git&logoColor=white
 [node-shield]: https://img.shields.io/badge/-Node-7CB73F?logo=node.js&logoColor=white
 [html-shield]: https://img.shields.io/badge/-HTML5-DD4C26?logo=html5&logoColor=white
@@ -82,6 +85,7 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 [aws-shield]: https://img.shields.io/badge/-AWS-FF9900?logo=amazon&logoColor=black
 [docker-shield]: https://img.shields.io/badge/-Docker-129AD4?logo=docker&logoColor=white
 [tailwind-shield]: https://img.shields.io/badge/-TailwindCSS-08B0CF?logo=tailwindcss&logoColor=white
+[springboot-shield]: https://img.shields.io/badge/-SpringBoot-66CC99?logo=springboot&logoColor=white
 [swagger-shield]: https://img.shields.io/badge/-Swagger-77E44A?logo=swagger&logoColor=white
 [storybook-shield]: https://img.shields.io/badge/-Storybook-FF4784?logo=storybook&logoColor=white
 [mysql-shield]: https://img.shields.io/badge/-MySQL-E48E00?logo=mysql&logoColor=white
@@ -101,3 +105,4 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 [notion-shield]: https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white
 [slack-shield]: https://img.shields.io/badge/-Slack-black?logo=slack&logoColor=48124A
 [zoom-shield]: https://img.shields.io/badge/-Zoom-black?logo=zoom&logoColor=4499FF
+[nginx-shield]: https://img.shields.io/badge/-Nginx-black?logo=nginx&logoColor=4499FF
