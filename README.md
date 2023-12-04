@@ -10,7 +10,7 @@
 
 Hello, I'm Fernando Oliveira *(or Frali 😁)*:
 
-<strong>*A brazilian Full Stack Web Developer.*</strong>
+<strong>*A brazilian Software Engineer.*</strong>
 
 
 I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very passionate about programming. I'm always improving and discovering new technologies to expand my portfolio, still learning, ~debugging~ and doing my best, ever.
@@ -20,7 +20,7 @@ I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very pa
 ## About me:
 
 - 🔭 I’m currently working on improving my skills to be a Full Cycle developer soon;
-- 🌱 I’m currently learning DevOps, Cloud and more about back-end. I usually study UX / UI in my spare time too;
+- 🌱 I’m currently learning low level programming (ASM) and game dev;
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/fernandofrali/), by clicking on the link at the bottom of the page. And it's also possible to explore my projects here in my repositories folder <3
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be scared of dogs!
