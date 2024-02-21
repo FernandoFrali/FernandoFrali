@@ -13,7 +13,7 @@ Hello, I'm Fernando Oliveira *(or Frali 😁)*:
 <strong>*A brazilian Software Engineer.*</strong>
 
 
-I'm 21, currently living in <strong>São Paulo - Brazil</strong> and I'm very passionate about programming. I'm always improving and discovering new technologies to expand my portfolio, still learning, ~debugging~ and doing my best, ever.
+I'm 22, currently living in <strong>São Paulo - Brazil</strong> and I'm very passionate about programming. I'm always improving and discovering new technologies to expand my portfolio, still learning, ~debugging~ and doing my best, ever.
 
 
 
